@@ -13,7 +13,7 @@ A login registration system that based on Django.
 pip install -r requirements.txt
 
 # config settings.py
-Update the configuration file（settings.py） for what you want.For example,the database config and the email 
+Update the configuration file（settings.py）for what you want.For example,the database config and the email 
 config and so on.
 
 # create records and data tables
