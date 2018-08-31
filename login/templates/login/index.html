@@ -1,0 +1,12 @@
+{% extends 'login/base.html' %}
+{% load staticfiles %}
+{% block title %}博客-首页{% endblock %}
+{% block content %}
+    <div class="login-index">
+        {% if request.session.is_login %}
+            <h1>Hello {{request.session.username}}，欢迎回来！</h1>
+        {% else %}
+            <h1>您暂未登录，只能访问公共页面!</h1>
+        {% endif %}
+    </div>
+{% endblock %}

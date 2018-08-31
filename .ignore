@@ -1,0 +1,4 @@
+.idea
+settings.py
+login/__pycache__/
+loginManage/__pycache__/
