@@ -4,5 +4,4 @@ settings.py
 login/__pycache__/
 login/migrations/__pycache__/
 loginManage/__pycache__/
-.idea/inspectionProfiles/
-.idea/workspace.xml
+
