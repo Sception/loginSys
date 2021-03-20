@@ -18,7 +18,7 @@ idna==2.7
 idna-ssl==1.1.0
 inflection==0.3.1
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.0
 multidict==4.3.1
 Naked==0.1.31
